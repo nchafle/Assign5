@@ -1,0 +1,71 @@
+.Question {
+    margin-top: 5vw;
+    padding: 0 5vw;
+    font-size: 1.5vw;
+    color: rgb(134, 121, 152);
+}
+
+.Question .header {
+    background-color: rgb(32, 39, 52);
+    height: 5vw;
+    padding: 0 3vw;
+}
+
+.Question h1 {
+    display: inline;
+    font-size: inherit;  
+}
+
+.Question .header button {
+    height: 4vw;
+    font-size: inherit;
+    background-color: rgb(32, 39, 52);
+    cursor: pointer;
+    color: inherit;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    margin-right: 1vw;
+}
+
+.Question footer{
+    height: 6vw;
+    width: 100%;
+    background-color: rgb(39, 46, 64);
+    border-top: .01vw solid;
+}
+.Question footer input {
+    width: 80%;
+    height:auto;
+    margin: 1vw;
+    font-size: 2vw;
+    background-color: rgb(26, 32, 45);
+    border: none;
+    color: inherit;
+}
+
+.Question footer button{
+    width: 15%;
+    height: 4vw;
+    margin: 1vw;
+    font-size: 2vw;
+    background-color: rgb(63, 41, 102);
+    color: rgb(206, 174, 233);
+    border: none;
+    cursor: pointer;
+}
+
+.Question section{
+    height: 10vw;
+    background-color: rgb(39, 46, 64);
+}
+
+.Question section p{
+    margin: 2% auto;
+    padding: 0 vw;
+  
+}
+
+.Question .header div{
+    float: right;
+}

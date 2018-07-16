@@ -1,0 +1,22 @@
+.Header{
+    height: 10vw;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgb(18, 21, 27);
+    color: rgb(91, 93, 98);
+    padding: 0 5vw;
+}
+
+.Header h1{
+    text-align: left;
+    margin-bottom: 0;
+    font-size: 2vw;
+}
+
+.Header h4{
+    text-align: left;
+    margin-top: 0;
+    font-size: 1vw;
+}

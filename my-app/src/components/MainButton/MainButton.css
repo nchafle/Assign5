@@ -1,0 +1,20 @@
+.MainButton{
+    margin-top: 10vw;
+    display: flex;
+    justify-content: center;
+    padding: 0 5vw;
+}
+
+.MainButton button{
+    width: 45%;
+    height: 3vw;
+    background-color: rgb(101, 129, 201);
+    font-size: 1.5vw;
+    color: rgb(199, 185, 220);
+    cursor: pointer;
+    border: 2px;
+}
+
+.MainButton button:hover {
+    background-color: rgb(48, 160, 160);
+}
